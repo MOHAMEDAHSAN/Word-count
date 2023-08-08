@@ -34,10 +34,10 @@ r1=f.read().split()
 print('Count :',len(r1))
 f.close()
 ~~~
-### OUTPUT:
-![PIC1](/Screenshot%202023-08-06%20100820.png)
-.txt File : 
-![PIC2](/Screenshot%202023-08-06%20100908.png)
+## OUTPUT:
+![PIC1](/wd.png)
+#### .txt File : 
+![PIC2](/txt.png)
 
 
 ## RESULT:
